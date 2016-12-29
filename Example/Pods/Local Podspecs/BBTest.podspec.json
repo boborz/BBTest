@@ -12,7 +12,7 @@
     "李博": "bo.li03@ele.me"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BBTest.git",
+    "git": "https://github.com/boborz/BBTest.git",
     "tag": "0.1.0"
   },
   "platforms": {
