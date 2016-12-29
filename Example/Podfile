@@ -2,10 +2,11 @@ use_frameworks!
 
 target 'BBTest_Example' do
   pod 'BBTest', :path => '../'
+  
+end
 
-  target 'BBTest_Tests' do
-    inherit! :search_paths
-
-    pod 'Kiwi'
-  end
+target 'BBTest_Tests' do
+  inherit! :search_paths
+  
+  pod 'Kiwi'
 end
