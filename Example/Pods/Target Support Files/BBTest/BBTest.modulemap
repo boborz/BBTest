@@ -1,0 +1,6 @@
+framework module BBTest {
+  umbrella header "BBTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

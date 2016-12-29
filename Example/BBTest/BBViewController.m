@@ -7,6 +7,7 @@
 //
 
 #import "BBViewController.h"
+#import <BBTest/NSString+test.h>
 
 @interface BBViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+  NSString *str = @"";
+  [str test];
 }
 
 - (void)didReceiveMemoryWarning

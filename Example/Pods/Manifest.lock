@@ -1,0 +1,19 @@
+PODS:
+  - BBTest (0.1.0)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - BBTest (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  BBTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BBTest: aca20ccbc53b235c4fbbbde53853e4feabd9997c
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+PODFILE CHECKSUM: 1e93d5fe03d474cb853c97c5fb51ac3b1c00703f
+
+COCOAPODS: 1.2.0.beta.1
