@@ -1,8 +1,13 @@
+source 'git@git.elenet.me:arch.mobile/iOS_specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
 target 'BBTest_Example' do
   pod 'BBTest', :path => '../'
-  
+#  pod 'LPDFeedbackModular', :git =>'git@git.elenet.me:LPD-iOS/LPDFeedbackModular.git'
+#  pod 'ELMCrowdRouter', :git => 'git@git.elenet.me:LPD-iOS/ELMCrowdRouter.git'
+
 end
 
 target 'BBTest_Tests' do
