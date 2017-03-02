@@ -1,8 +1,10 @@
 PODS:
+  - AFNetworking/Reachability (3.1.0)
   - BBTest (0.1.0)
   - Kiwi (2.4.0)
 
 DEPENDENCIES:
+  - AFNetworking/Reachability
   - BBTest (from `../`)
   - Kiwi
 
@@ -11,9 +13,10 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   BBTest: aae66e6a1c1a29255af72235d5ee89b544970394
   Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
 
-PODFILE CHECKSUM: 8fcf6cdcce98bfc2740e1b5f2a80ed48860a554e
+PODFILE CHECKSUM: 40576e00ef93ee25ed6a1d53088e4e8290e0fc7d
 
 COCOAPODS: 1.2.0
