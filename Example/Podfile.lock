@@ -8,6 +8,11 @@ DEPENDENCIES:
   - BBTest (from `../`)
   - Kiwi
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Kiwi
+
 EXTERNAL SOURCES:
   BBTest:
     :path: "../"
@@ -17,6 +22,6 @@ SPEC CHECKSUMS:
   BBTest: aae66e6a1c1a29255af72235d5ee89b544970394
   Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
 
-PODFILE CHECKSUM: 40576e00ef93ee25ed6a1d53088e4e8290e0fc7d
+PODFILE CHECKSUM: d84d051fa2dfa06e07d9a0175d6cc1ea435af1e1
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.7.3
